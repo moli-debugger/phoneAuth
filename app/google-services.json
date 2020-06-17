@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "980900906626",
+    "firebase_url": "https://phoneauth-b43d7.firebaseio.com",
+    "project_id": "phoneauth-b43d7",
+    "storage_bucket": "phoneauth-b43d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980900906626:android:596fb6440abe426f5ad69b",
+        "android_client_info": {
+          "package_name": "com.example.phoneauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "980900906626-gkmelnp6poldb5oji1h2joa0g8mc96jh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.phoneauth",
+            "certificate_hash": "628432887d30c5942bf233b36604ac165882a444"
+          }
+        },
+        {
+          "client_id": "980900906626-8hisuk4ph9lt1qact2urbuvd9gp52l8t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjS1XsYikMTkKYpNjTYusB3Ivw8D-wxqk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "980900906626-8hisuk4ph9lt1qact2urbuvd9gp52l8t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
